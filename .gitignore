@@ -1,0 +1,6 @@
+laravel/
+backup-nodejs/
+
+# Dependency directories
+node_modules/
+.vscode/
